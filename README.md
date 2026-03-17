@@ -1,6 +1,6 @@
 # Hi, I'm Dejan Jović 👋
 
-Machine Learning enthusiast focused on building AI and data science projects using Python, TensorFlow, and Google Cloud.
+Aspiring Machine Learning Engineer focused on building real-world AI projects using Python, TensorFlow, and Google Cloud.
 
 ---
 
